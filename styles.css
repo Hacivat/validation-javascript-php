@@ -1,0 +1,24 @@
+table, th, td{
+margin: 0px auto;
+background:rgb(165, 165, 165);
+width: 24%;
+box-shadow: 5px 10px;
+}
+textarea {
+    resize: none;
+}
+.center {
+    margin: auto;
+    padding-left: 0%;
+    color: red;
+    font-weight: bold;
+    padding-left: 50px;
+}
+body {
+    background-color: gainsboro;
+}
+.green {
+    color: green;
+}
+.alnright { text-align: right; }
+.alnleft { text-align: left; }
