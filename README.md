@@ -2,5 +2,5 @@
 Some validations.
 
 <p align="center"> 
-![](https://media.giphy.com/media/3rSWBKd6tDlg1xXzJS/giphy.gif)
+<img src="https://media.giphy.com/media/3rSWBKd6tDlg1xXzJS/giphy.gif" />
 </p>
